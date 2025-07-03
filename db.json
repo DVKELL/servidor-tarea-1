@@ -25,5 +25,16 @@
       "username": "a"
     }
   ],
-  "hoja": []
+  "tareas": [
+    {
+      "id": "a709",
+      "descripcion": "Tarea 2",
+      "username_id": "1"
+    },
+    {
+      "id": "bd64",
+      "descripcion": "Tarea 3",
+      "username_id": "1"
+    }
+  ]
 }
